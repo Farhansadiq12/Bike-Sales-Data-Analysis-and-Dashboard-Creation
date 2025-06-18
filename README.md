@@ -15,6 +15,6 @@ This project involves the comprehensive analysis of a dataset containing bike sa
 => Tools and Technologies
 
 1) Microsoft Excel: For data cleaning, analysis, pivot table creation, and dashboard development.
-2) Excel Functions: Utilized functions like VLOOKUP, HLOOKUP, IF, SUMIF, and COUNTIF for data manipulation and analysis.
+2) Excel Functions: Utilized functions like VLOOKUP, XLOOKUP, IF, SUMIF, and COUNTIF for data manipulation and analysis.
 3) Pivot Tables and Pivot Charts: For dynamic data summarization and visualization.
 4) Excel Slicers and Timelines: For interactive filtering and date range selection in the dashboard.
